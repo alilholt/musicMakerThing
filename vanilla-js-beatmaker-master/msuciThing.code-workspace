@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "/Users/addisonlilholt/Documents"
+		},
+		{
+			"path": "/Users/addisonlilholt/GitHub/https---github.com-alexa-interactive-adventure-game-tool"
+		},
+		{
+			"path": "/Users/addisonlilholt/GitHub/newRepro"
+		}
+	],
+	"settings": {
+		"editor.glyphMargin": false,
+		"files.autoSave": "afterDelay",
+		"files.autoGuessEncoding": true,
+		"editor.wordWrap": "on",
+		"git.autofetch": true
+	}
+}
